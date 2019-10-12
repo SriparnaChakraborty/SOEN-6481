@@ -19,10 +19,14 @@ project and the product, unless otherwise stated.
 Team Members:
 
 Vsu Chuchra           :  40105218, Email : ca.vsuchuchra@gmail.com
-Sriparna Chakraborty  :  40069488, Email :
-Gunvansh Bhatia       :  40082036, Email :
-Ravneet Singh Brar    :  40078628, Email :
-Vasu Dadhania         :  40103048, Email :
+
+Sriparna Chakraborty  :  40069488, Email : sriparna.chakraborty999@gmail.com
+
+Gunvansh Bhatia       :  40082036, Email : vansh.bhatia9@gmail.com
+
+Ravneet Singh Brar    :  40078628, Email :  rippybrar1994@gmail.com
+
+Vasu Dadhania         :  40103048, Email : vasudadhania@gmail.com
 
 
 
