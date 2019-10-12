@@ -6,6 +6,7 @@
   
                                                           PROJECT DESCRIPTION
 INTRODUCTION
+
 A Ticket Vending Machine (TVM), also known as a ticket machine or a ticketing kiosk,
 is an automated, self-service, vending machine that produces tickets for some means of
 public transportation. (There are TVMs for other purposes, but the attention here is on
