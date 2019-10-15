@@ -1,4 +1,5 @@
-                                                          CONCORDIA UNIVERSITY
+# SOEN 6481
+                                                         CONCORDIA UNIVERSITY
                                           DEPARTMENT OF COMPUTER SCIENCE AND SOFTWARE ENGINEERING
                                                               SOEN 6481
                                           SOFTWARE SYSTEMS REQUIREMENTS SPECIFICATION: SECTION SS
@@ -16,7 +17,7 @@ domain of the software aspect of a maintainable, secure, (environmentally) susta
 and usable TVM. In the rest of the document, ‘iGo’ stands for the name of both the
 project and the product, unless otherwise stated.
 
-Team Members:
+# Team Members:
 
 Vsu Chuchra           :  40105218, Email : ca.vsuchuchra@gmail.com
 
@@ -28,5 +29,49 @@ Ravneet Singh Brar    :  40078628, Email :  rippybrar1994@gmail.com
 
 Vasu Dadhania         :  40103048, Email : vasudadhania@gmail.com
 
+# Roles and Responsibilities:
+Deliverable 1
+# Vsu Chuchra 
+
+1.Directly worked on :
+- Problem Domain Model
+- Problem Domain Model description
+- Interview Questions
+- Documenting conclusions derived from interviews and how it
+  influenced different software artifacts for our TVM iGo.
+
+2.Worked in collboration with other team members for conducting interviews.
+
+# Sriparna Chakraborty
+
+1. Directly worked on:
+ - 
+2.Worked in collboration with other team members for conducting interviews.
+  
+# Gunvansh Bhatia
+ 
+  1. Directly worked on :
+  - Described the kind of TVM selected, its features along with the rational. 
+  - Write interview questions.
+  - Define iGo in terms of the needs of visually challenged and wheelchair bound people.
+  
+ 2. Worked in collboration with other team members for conducting interviews.
+
+# Ravneet Singh Brar
+
+1. Directly worked on:
+  - Interview questions
+  - UML Use case diagram
+  - Use case description
+2.Worked in collboration with other team members for conducting interviews.
+
+
+# Vasu Dadhania 
+
+1. Directly worked on:
+  - Interview questions
+  - UML Activity diagram
+  - UML Activity diagram description
+2. Worked in collaboration with other team members for conducting interviews.
 
 
