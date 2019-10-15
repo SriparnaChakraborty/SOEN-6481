@@ -1,4 +1,5 @@
 # SOEN 6481
+
                                                          CONCORDIA UNIVERSITY
                                           DEPARTMENT OF COMPUTER SCIENCE AND SOFTWARE ENGINEERING
                                                               SOEN 6481
@@ -17,7 +18,7 @@ domain of the software aspect of a maintainable, secure, (environmentally) susta
 and usable TVM. In the rest of the document, ‘iGo’ stands for the name of both the
 project and the product, unless otherwise stated.
 
-# Team Members:
+# Team Members: TEAM B
 
 Vsu Chuchra           :  40105218, Email : ca.vsuchuchra@gmail.com
 
@@ -28,6 +29,8 @@ Gunvansh Bhatia       :  40082036, Email : vansh.bhatia9@gmail.com
 Ravneet Singh Brar    :  40078628, Email :  rippybrar1994@gmail.com
 
 Vasu Dadhania         :  40103048, Email : vasudadhania@gmail.com
+
+# GIT HUB link : https://github.com/SriparnaChakraborty/SOEN-6481.git
 
 # Roles and Responsibilities:
 Deliverable 1
@@ -50,10 +53,11 @@ Deliverable 1
   
 # Gunvansh Bhatia
  
-  1. Directly worked on :
+  1. Directly worked on :Problem 1 and Problem 2 
   - Described the kind of TVM selected, its features along with the rational. 
   - Write interview questions.
   - Define iGo in terms of the needs of visually challenged and wheelchair bound people.
+  - Merged all the documents in the Latex Format
   
  2. Worked in collboration with other team members for conducting interviews.
 
