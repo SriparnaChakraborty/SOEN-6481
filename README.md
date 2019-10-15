@@ -18,7 +18,7 @@ domain of the software aspect of a maintainable, secure, (environmentally) susta
 and usable TVM. In the rest of the document, ‘iGo’ stands for the name of both the
 project and the product, unless otherwise stated.
 
-# Team Members:
+# Team Members: TEAM B
 
 Vsu Chuchra           :  40105218, Email : ca.vsuchuchra@gmail.com
 
