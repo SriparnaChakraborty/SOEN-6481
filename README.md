@@ -50,10 +50,11 @@ Deliverable 1
   
 # Gunvansh Bhatia
  
-  1. Directly worked on :
+  1. Directly worked on :Problem 1 and Problem 2 
   - Described the kind of TVM selected, its features along with the rational. 
   - Write interview questions.
   - Define iGo in terms of the needs of visually challenged and wheelchair bound people.
+  - Merged all the documents in the Latex Format
   
  2. Worked in collboration with other team members for conducting interviews.
 
