@@ -1,5 +1,4 @@
-Language : HTL CSS
-Platform: Visual Studio 2019
+Language : HTML CSS
 Browser:Any. Preferred Chrome
 UserStory: 3. Buy ticket at a concession.
 
