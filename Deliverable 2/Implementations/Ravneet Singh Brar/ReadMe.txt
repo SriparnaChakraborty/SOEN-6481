@@ -1,9 +1,7 @@
 Language : HTL CSS
 Platform: Visual Studio 2019
 Browser:Any. Preferred Chrome
-UserStory: 3. Buy ticket at a concession
-	   
-Constrains:All possible constrains are covered in form of thrown validations.
+UserStory: 3. Buy ticket at a concession.
 
 Instruction to run project:
 
