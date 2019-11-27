@@ -1,11 +1,13 @@
- 						      CONCORDIA UNIVERSITY
-                                      DEPARTMENT OF COMPUTER SCIENCE AND SOFTWARE ENGINEERING
-                                                          SOEN 6481
-                                      SOFTWARE SYSTEMS REQUIREMENTS SPECIFICATION: SECTION SS
-                                                          FALL 2019
+# SOEN 6481
 
-                                                      PROJECT DESCRIPTION D2
-						            TEAM B
+                                                         CONCORDIA UNIVERSITY
+                                          DEPARTMENT OF COMPUTER SCIENCE AND SOFTWARE ENGINEERING
+                                                              SOEN 6481
+                                          SOFTWARE SYSTEMS REQUIREMENTS SPECIFICATION: SECTION SS
+                                                              FALL 2019
+  
+                                                          PROJECT DESCRIPTION D2
+						              TEAM B
 
 Folder:
 1.Documentation: contains question answers and latex files
