@@ -1,4 +1,12 @@
-This Contains the implementation of the User Stroy 3 that there are concession plans available for Students and Senior Citizens.
+Language : HTL CSS
+Platform: Visual Studio 2019
+Browser:Any. Preferred Chrome
+UserStory: 3. Buy ticket at a concession
+	   
+Constrains:All possible constrains are covered in form of thrown validations.
+
+Instruction to run project:
+
 In the implementation zip file, unzip the file and open the index.html page in any browser(preferebly in Google Chrome).
 It opens the main page of the web implementation and shows you 2 options for the concession plan and regular plan
 Click on the concession plan and another web page showing concession plans for the student and senior citizen will display.
