@@ -47,8 +47,10 @@ Deliverable 1
 
 # Sriparna Chakraborty
 
-1. Directly worked on:
- - 
+1. Directly worked on:Problem 1 and Problem 2
+ - - Interview questions
+  - UML Use case diagram
+  - Use case description
 2.Worked in collboration with other team members for conducting interviews.
   
 # Gunvansh Bhatia
