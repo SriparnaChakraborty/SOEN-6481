@@ -10,7 +10,7 @@
 						              TEAM B
 
 Folder:
-1.Documentation: contains question answers and latex files
+1.Documentation: contains question answers and personas and latex files
 2.Implementations: contains subfolder named after team memner's name,each 
 		   further contains solution folders and ScreenShot file and "ReadMe.txt"-intruction file to 
 		   run projects.
