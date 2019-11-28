@@ -82,7 +82,9 @@ public class online extends javax.swing.JFrame {
             }
         });
 
-        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "student plan $51", "single journey $10", "Double $15", "weekly $19" }));
+        jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "  ", "student plan $51", "single journey $10", "Double $15", "weekly $19" }));
+        jComboBox1.setSelectedIndex(0
+        );
         jComboBox1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jComboBox1ActionPerformed(evt);
@@ -170,7 +172,7 @@ public class online extends javax.swing.JFrame {
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
-
+    
     private void nameActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_nameActionPerformed
         // TODO add your handling code here:
     }//GEN-LAST:event_nameActionPerformed
@@ -189,16 +191,23 @@ public class online extends javax.swing.JFrame {
         String stmcardnumber = stmnumber.getText();
         String creditcard = cardnumber.getText();
         String c = cvv.toString();
-        System.out.println(c);
-        if(stmcardnumber.length()>1){
+        String plan = jComboBox1.getName();
+        System.out.println("plan"+plan);
+        if(username=="null"){
             
-          JOptionPane.showMessageDialog(jFrame1, "invalid card number", "Warning",
+           JOptionPane.showMessageDialog(jFrame1, "Enter a valid name", "Warning",
+        JOptionPane.WARNING_MESSAGE); 
+            
+        }
+        if(stmcardnumber.length()>12){
+            
+          JOptionPane.showMessageDialog(jFrame1, "Invalid card number", "Warning",
         JOptionPane.WARNING_MESSAGE);
          
         }
-        if(creditcard.length()>1){
+        if(creditcard.length()>16){
             
-          JOptionPane.showMessageDialog(jFrame1, "invalid credit card number", "Warning",
+          JOptionPane.showMessageDialog(jFrame1, "Invalid credit card number", "Warning",
         JOptionPane.WARNING_MESSAGE);
          
         }
@@ -209,14 +218,16 @@ public class online extends javax.swing.JFrame {
         int answer = JOptionPane.YES_OPTION;
         int cancle = JOptionPane.NO_OPTION;
        
+        
+        
+        
         if(answer == JOptionPane.YES_OPTION) {
             JOptionPane.showMessageDialog(jFrame1,"Thank you for using STM online portal ." );
-        }
-        if(cancle==JOptionPane.NO_OPTION){
-        
+        }else{
+            
             System.exit(0);
+        }
         
-    }
     }//GEN-LAST:event_button1ActionPerformed
 
     /**
